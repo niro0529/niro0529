@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niro0529
 - 👀 I’m interested in Web & Mobile
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React, Node & Firebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "niroshan@silverlineit.co"
 
